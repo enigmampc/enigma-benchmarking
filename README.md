@@ -4,7 +4,7 @@
 
 [Enigma](https://enigma.co/) is a secure computation protocol, where “secret nodes” perform computations over encrypted data. Enigma brings privacy to any kind of computation - not just transactions - helping to improve the adoption and usability of decentralized technologies.
 
-This is a sample application which illustrates how to use enigma's secret contracts and ethereum's smart contracts to allow users to submit datasets and compare this data privately.
+This is a sample application which illustrates how to use enigma's secret contracts and ethereum's smart contracts to allow users to submit an encrypted dataset and then an individual encrypted datapoint and compare features of this data privately. Specifically, this example analyses whether a "quote" for a service from a provider falls within a normal range for an encrypted dataset provided by another user. 
 
 This sample contract can be built on for a variety of applications, including: 
 - ensuring salary fairness without revealing individual compensations
