@@ -80,6 +80,8 @@ const Model = types
 
       enigma.admin();
 
+      enigma.setTaskKeyPair('cupcake');
+
       self.setEnigma(enigma);
 
       self.isInstalled = true;
