@@ -12,7 +12,7 @@
     "@material-ui/core": "^4.3.1",
     "@material-ui/icons": "^4.2.1",
     "csvtojson-converter": "^2.0.4",
-    "enigma-js": "0.0.8",
+    "enigma-js": "^0.3.0",
     "mobx": "^5.13.0",
     "mobx-react": "^6.1.3",
     "mobx-state-tree": "^3.14.1",

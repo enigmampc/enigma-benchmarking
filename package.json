@@ -4,7 +4,8 @@
   "description": "Compare your data with others privately and secure.",
   "dependencies": {
     "@openzeppelin/contracts": "^2.3.0",
-    "enigma-js": "^0.0.8"
+    "dotenv": "^8.0.0",
+    "enigma-js": "^0.3.0"
   },
   "devDependencies": {},
   "author": "",
